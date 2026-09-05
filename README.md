@@ -1,30 +1,60 @@
-# 👋 Hi, I'm Mohammad Parsa Yadegari
+<h1 align="center">سلام 👋, من محمد پارسا یادگاری هستم</h1>
+<h3 align="center">دانشجوی مهندسی نرم‌افزار کامپیوتر | Frontend & Full-Stack Developer</h3>
 
-### 💻 Frontend Developer | Computer Software Student | Future Full-Stack Engineer
-
-به گیت‌هاب من خوش آمدید! من **محمد پارسا یادگاری** هستم، دانشجوی رشته **نرم‌افزار کامپیوتر** و عاشق دنیای بی‌انتها و هیجان‌انگیز برنامه‌نویسی. در حال حاضر تمرکز اصلی من بر توسعه سمت کاربر (Frontend) است و با اشتیاق در حال یادگیری مفاهیم بک‌اندم تا در آینده یک توسعه‌دهنده Full-Stack حرفه‌ای باشم.
-
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React, Vite, Webpack, Babel
-- **Currently Learning:** Backend Development (Node.js, Databases)
-- **Tools:** Git, GitHub, VS Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moohamadparsa&label=بازدید%20پروفایل&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 🎓 About Me
-- 🎓 **Education:** Student of **Computer Software** (Software Engineering focus).
-- 🔭 **Current Focus:** Building responsive and high-performance web interfaces.
-- 💡 **Passion:** I am deeply passionate about my field of study and love solving complex problems through code.
-- 🚀 **Goal:** To master the entire software development lifecycle and build scalable applications.
+### 🚀 درباره من
+
+- 🎓 دانشجوی **مهندسی نرم‌افزار کامپیوتر**
+- 💻 در حال یادگیری و تمرکز روی **Frontend Development** با JavaScript و React
+- 🛠️ آشنا با ابزارهای مدرن ساخت مثل **Vite** و **Webpack**
+- 📚 مشتاق یادگیری تکنولوژی‌های جدید و ساخت پروژه‌های واقعی
+- 🌱 در حال بهبود مهارت‌های **Full-Stack** development
 
 ---
 
-### 📊 My GitHub Stats
-![Mohammad Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=moohamadparsa&show_icons=true&theme=radical)
+### 🔧 تکنولوژی‌ها و ابزارها
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,vite,webpack,babel,git,github,npm" />
+</p>
 
 ---
 
-*"Software is not just code; it's the art of solving complexities with logic."* 🚀
+### 📊 آمار گیت‌هاب
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moohamadparsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamadparsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moohamadparsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 راه‌های ارتباطی با من
+
+<p align="center">
+  <a href="mailto:mhmdsyna822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/Mohammad parsa">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=به+پروفایل+من+خوش+آمدید+%F0%9F%91%8B;در+حال+یادگیری+و+ساخت+چیزهای+جذاب" alt="Typing SVG" />
+</p>
+
