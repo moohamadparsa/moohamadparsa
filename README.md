@@ -1,60 +1,34 @@
-<h1 align="center">سلام 👋, من محمد پارسا یادگاری هستم</h1>
-<h3 align="center">دانشجوی مهندسی نرم‌افزار کامپیوتر | Frontend & Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moohamadparsa&label=بازدید%20پروفایل&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+# 🚀 سلام، من محمد پارسا هستم!
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV0d29ya3xqaT1kZXZlbG9wZXJ8JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3PfvOK87qK/giphy.gif" alt="Coding" width="300" />
 
-### 🚀 درباره من
-
-- 🎓 دانشجوی **مهندسی نرم‌افزار کامپیوتر**
-- 💻 در حال یادگیری و تمرکز روی **Frontend Development** با JavaScript و React
-- 🛠️ آشنا با ابزارهای مدرن ساخت مثل **Vite** و **Webpack**
-- 📚 مشتاق یادگیری تکنولوژی‌های جدید و ساخت پروژه‌های واقعی
-- 🌱 در حال بهبود مهارت‌های **Full-Stack** development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007AFF&width=435&lines=دانشجوی+مهندسی+نرم‌افزار;عاشق+توسعه+وب+و+JavaScript;در+حال+ساخت+ربات‌های+تلگرام" />
 
 ---
 
-### 🔧 تکنولوژی‌ها و ابزارها
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,vite,webpack,babel,git,github,npm" />
-</p>
+### 🛠 تکنولوژی‌های من
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,vite,webpack,git,github,npm,vscode" />
 
 ---
 
-### 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moohamadparsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamadparsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=moohamadparsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🏆 دستاوردهای من
+<img src="https://github-profile-trophy.vercel.app/?username=moohamadparsa&theme=tokyonight&no-bg=true&margin-w=5" />
 
 ---
 
-### 📫 راه‌های ارتباطی با من
+### 📊 آمار گیت‌هاب من
+*(به‌محض اینکه اولین پروژه را پوش کنی، اینجا پر می‌شود!)*
 
-<p align="center">
-  <a href="mailto:mhmdsyna822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/Mohammad parsa">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=moohamadparsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamadparsa&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=به+پروفایل+من+خوش+آمدید+%F0%9F%91%8B;در+حال+یادگیری+و+ساخت+چیزهای+جذاب" alt="Typing SVG" />
-</p>
+### 📫 راه‌های ارتباطی
+<a href="https://t.me/YourTelegramID">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
+</div>
