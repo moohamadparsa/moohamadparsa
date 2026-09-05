@@ -1,54 +1,51 @@
 <div align="center">
 
-<!-- بنر بسیار شیک و هنری برای بالای صفحه -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZueGZ6Z3R0bm94bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxH07M3TqU/giphy.gif" width="100%" />
+# Hi there, I'm Mohamad Parsa 👋
 
-# ⚡️ MOHAMAD PARSA YADGARI
-### *Software Engineer & Creative Developer*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building+Digital+Experiences&fontSize=40&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Building+Future+Digital+Experiences;Specializing+in+JS+%26+React;Crafting+Smart+Telegram+Bots" />
-
-<br>
-
-<!-- بخش مهارت‌ها با استایل متفاوت -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV0d29ya3xqaT1kZXZlbG9wZXJ8JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3PfvOK87qK/giphy.gif" width="150" />
-      <br><b>My Tech Stack</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV0d29ya3xqaT1kZXZlbG9wZXJ8JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxH07M3TqU/giphy.gif" width="150" />
-      <br><b>Current Focus</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,webpack,git,github,npm,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Software%20Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-JS%20%7C%20React%20%7C%20Automation-success?style=flat-square" />
+</p>
 
 ---
 
-### 🚀 Featured Wor
-> **[🤖 Telegram Store Bot](https://github.com/moohamadparsa/telegram-stor-bot)**  
-> *An intelligent automated commerce solution powered by Google Apps Script.*
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,webpack,git,github,npm,vscode,mysql,postgresql" />
 
 ---
 
-### 📊 Real-time Stats
-<img src="https://github-readme-stat.vercel.app/api?username=moohamadparsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamadparsa&layout=compact&theme=tokyonight&hide_border=true" />
+### 💻 Featured Project
+**[Telegram Store Bot](https://github.com/moohamadparsa/telegram-store-bot)**  
+*Automated e-commerce solution built with Google Apps Script.*
+
+> A smart, lightweight bot to handle orders and customer notifications, ensuring 24/7 store management.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moohamadparsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moohamadparsa&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=moohamadparsa&theme=tokyonight&no-bg=true" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moohamadparsa&theme=tokyonight&no-bg=true" />
+</div>
 
 ---
 
-### 📫 Le's Connect
-<a href="https://t.me/YourTelegramID">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+### 📫 Get In Touch
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/YOUR_ID_HERE)
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=footer&text=Keep+Coding&fontSize=30" />
+
+</div>
+
 </a>
 
 <br>
