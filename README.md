@@ -1,8 +1,8 @@
 
+![Web Developer](./web_developer_github_animated_light%281%29.gif)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moohamadparsa/moohamadparsa/main/web_developer_github_animated_light%281%29.gif" alt="Web Developer" width="100%">
+  <img src="./developer.gif" alt="Web Developer" width="100%">
 </p>
-
 
 
 
