@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./developer.gif" alt="Web Developer" width="100%">
+</p>
 
 <div align="center">
 
