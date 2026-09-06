@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./web_developer_github_animated_light.gif"
-       alt="Web Developer"
-       width="100%">
-</p>
 
 
 <div align="center">
