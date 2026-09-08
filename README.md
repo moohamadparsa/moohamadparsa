@@ -13,6 +13,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building+Digital+Experiences&fontSize=40&animation=fadeIn&fontAlignY=40" />
 
+## 🚀 پروژه‌های من
+
+### 🔐 Hooshmand — Login & Admin Panel
+
+یک پروژه حرفه‌ای و مدرن فارسی با طراحی **RTL** شامل صفحه ورود و پنل مدیریت، مناسب برای استفاده در پروژه‌های وب.
+
+**✨ ویژگی‌ها**
+
+* 🎨 طراحی مدرن و کاربرپسند
+* 📱 کاملاً Responsive
+* 🌐 پشتیبانی کامل از زبان فارسی و RTL
+* 🔐 صفحه ورود حرفه‌ای
+* ⚙️ پنل مدیریت
+* 🎯 دارای ۳ دموی مختلف
+
+**🔗 مشاهده پروژه و دموها**
+
+👉 [مشاهده Demo](https://moohamadparsa.github.io/moohamadparsa/)
+
+⭐ اگر پروژه براتون مفید بود، با یک Star از پروژه حمایت کنید.
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Software%20Engineering-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-JS%20%7C%20React%20%7C%20Automation-success?style=flat-square" />
