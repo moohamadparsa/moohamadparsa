@@ -33,7 +33,7 @@
 👉 [مشاهده Demo](https://moohamadparsa.github.io/moohamadparsa/)
 
 ⭐ اگر پروژه براتون مفید بود، با یک Star از پروژه حمایت کنید.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moohamadparsa-yadegari-013253435/)
 
 
 
